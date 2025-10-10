@@ -116,7 +116,7 @@ export default function FamilyTreePage() {
             {
               selector: "edge",
               style: {
-                width: 2,
+                width: "2",
                 "line-color": "#6366f1",
                 "target-arrow-color": "#6366f1",
                 "target-arrow-shape": "triangle",
@@ -125,7 +125,7 @@ export default function FamilyTreePage() {
                 "font-size": "10px",
                 "text-background-color": "#fff",
                 "text-background-opacity": 0.9,
-                "text-background-padding": 2,
+                "text-background-padding": "2px",
                 "text-rotation": "autorotate",
               },
             },
